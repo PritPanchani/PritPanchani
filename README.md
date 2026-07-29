@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Prit Panchani 👋
 
-<!--
-**PritPanchani/PritPanchani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at San Francisco State University
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer passionate about building scalable software, AI-powered applications, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.S. in Computer Science @ San Francisco State University
+- 💼 Product Engineering Intern at UnifyApps
+- 🌉 Based in San Francisco, California
+- 🌱 Currently learning cloud technologies, distributed systems, and software architecture
+- 🤝 Open to Software Engineering Internship opportunities
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+Python • Java • JavaScript • C++ • C • SQL
+
+### Frontend
+HTML • CSS • JavaScript
+
+### Backend
+Node.js • Express.js • Django • Flask • REST APIs • Quarkus
+
+### Databases
+MySQL • PostgreSQL • MongoDB • Redis
+
+### Tools
+Git • Docker • Kubernetes • Apache Kafka • Grafana • Graylog
+
+---
+
+## 🚀 Featured Projects
+
+🔹 StudyNest – SFSU Student Tutoring Hub
+
+🔹 AI-Powered Resume Analyzer
+
+🔹 Smart Login System
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/prit-panchani-3607b9299
+
+📧 Email  
+pritpanchani43@outlook.com
