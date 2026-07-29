@@ -12,7 +12,7 @@
 - 💼 Product Engineering Intern at UnifyApps
 - 🌉 Based in San Francisco, California
 - 🌱 Currently learning cloud technologies, distributed systems, and software architecture
-- 🤝 Open to Software Engineering Internship opportunities
+- 🚀 Currently building full-stack applications and exploring modern AI, distributed systems, and cloud technologies.
 
 ---
 
